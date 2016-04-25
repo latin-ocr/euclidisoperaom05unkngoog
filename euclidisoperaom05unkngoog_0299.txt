@@ -1,0 +1,40 @@
+APPENDIX. 225
+
+esi igitur ΑΒ. ei ratio AB : ΒΓ data esi. ergo
+eiiam ΒΓ data esi [prop. II].
+
+Lemma superioris propositionis.
+
+Quomodo datum est reciuugulum AB >< ΒΓ, si
+supposuimus, angulum ΑΒΓ obtusum esse?
+
+dueatur apunoto Β perpendicularis BA , ei pro-
+ducatur ΓΛ ed Θ, et expleatur reetangulum BA ΘΑ.
+aequale esi igitur parallelogrammo ΑΓ [L 35]. ei
+producatur ΛΒ ad Ζ, et
+
+Z ponatur BZ=BF, oi ex-
+pleatur reoiangulum AZ.
+iam quoniam [ΑΒΓ datus
+
+Α k est (uam iia supposuimus),
+x datus autem eiiam [ΑΒΔ
+χΓ
+
+Θ Δ (nam rectus esi), qui reliu-
+quiiur [AB Γ datus erit
+[prop. IV} et LA rectus esi. itaque reliquus [Γ
+datus esi [1, 323 propp. ΙΙΙ, IV} quare Δ ΒΓΑ datus
+esi speeie [prop. XL} i aque ratio AB:B Γ daia est
+[def. 3]. sed BF=BZ. quare eiiam ratio AB:BZ0
+data est. itaque etiam ratio Bo: ΖΑ daia est ΠΙ, 13
+def. 2} uerum Β ΘΞΑΓ. quare ratio ΑΓεΑΖ daia
+est. eh <laium est ΑΓ. ergo eiiam [prop. II] AZ
+datum esi, h. e. AB>< uz, h. e. ΑΒ>< er. ‘
+
+Fig. om. P.
+
+Euclides, edd. Heiberg et Menge. VI. ru
+
+ 
+

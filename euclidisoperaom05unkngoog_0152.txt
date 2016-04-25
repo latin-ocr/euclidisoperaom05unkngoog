@@ -1,0 +1,35 @@
+DATA. 79
+
+ΕΔ>Ζ [V,16; V‚14]. aptetur rectan aequalis ΔΗ
+[1V‚ 1], e ducatur H E, et centro A, radio autem ΔΗ
+circulus describatur - ΘΗΚ. itaque circulus ΘΗΚ
+datus est positione [def. 6]; nam datum est eius cen-
+trum positione et radius magnitudine. uerum etiam
+semicirculus ΔΗΕ positione datus est. itaque punctum
+
+—ffKEZB
+
+H datum est [prop. XXV] sed etiam utrumque
+punctum Δ, Ε datum est. itaque unaquaeque recta-
+rum ΗΔ, ΔΕ, ΕΗ positione et magnitudine data est
+[prop. XXVI} ergo triangulus ΗΔΕ datus est specie
+[prop. XXXIX} iam quoniam duo trianguli sunt
+ΑΒΓ, ΔΕΗ unum angulum uni angulo aequalem
+habentes, LBAF=AHE [HL 31], et latera alios
+duos angulos ΓΒΑ, ΕΔΗ comprehendentia proportio·
+nalia et reliquos angulos Β ΓΑ, ΔΕΗ singulos simul
+minores recto [1, 17], erit Δ ΑΒΓΜ ΔΕΗ [VL 7].
+sed Δ ΔΕΗ datus est specie. ergo etiam Δ ΑΒΓ
+datus est specie [def. 3].
+
+XLIV.
+
+si triangulus unum angulum datum habet ct latera
+alium angulum comprehendentia inter se rationem
+
+habent datam, triangulus datus est specie.
+
+In P K centrum est semicirculi.
+
+ 
+

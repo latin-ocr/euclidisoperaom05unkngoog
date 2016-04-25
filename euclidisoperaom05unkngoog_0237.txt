@@ -1,0 +1,38 @@
+DATA. 163
+
+LXXXII.
+
+Si quattuor rectae proportionales sunt, erit ut
+prima ad eam, ad quom secunda rationem habet da÷
+tam, ita tertia ad eam, ad quam quarta rationem
+habet datam.
+
+sint quattuor rectae proportionales A, B, Γ, A,
+ito ut sit A : B = Γ : A. dico, esse, ut A ad eam,
+ad quamB rationem habeat datam, ita Γ ad eam, ad
+quam A rationem habeat datam.
+
+nam sit E ea, ad quam B rationem habet dataro,
+
+ot fiat B : E == A: Z. uerum ratio ΒτΕ data est.
+quare etiam ratio A :Z data est [def. 2]. et quoniam
+est A:B=F:A, est autem etiam B:E=A:z,
+ex aequo [V‚ 22] erit A :E = Γ : Z. et est E ea,
+ad quam Β rationem habet datam, Z autom eo, ad ι
+quom A. ergo ost, ut A ad eam, ari quam Β rationem
+habet datam, ito Γ ad eam, ad quam A rationem
+
+habet datam.
+LXXXIII.
+
+Si quattuor rectae ita inter se habent, ut tribus
+quibuslibet exiis sumptis et quarta ad eas adsumpto
+proportionali ad quam reliqua rectarum ab initio pro-
+
+ληφθεισῶν ἐξ αὐτῶν] ἐξ αὐτῶν ληφθῶσιν b. ὁποιαιοῦν b.
+23. αὐταῖς] corr. ex αὐτῆς m. 2 v. ἀνάλογον] om. b.
+
+Il*
+
+ 
+
